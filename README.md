@@ -2,11 +2,11 @@
 
 Founding engineer and full-stack systems builder working on AI-native collaboration, knowledge stewardship, and practical tools for people doing complex work.
 
-My current work centers on **Mixtape**, **Catalyst**, and **Tapestry**: related pieces of a production software environment for groups, organizations, and independent practitioners who need to turn dispersed information into knowledge they can actually use.
+My current work centers on **Mixtape**, and integrated suite of tools including **Crossroads**, **Catalyst**, and **Tapestry**: related pieces of a production software environment for groups, organizations, and independent practitioners who need to collaborate, produce, and turn dispersed information into knowledge they can actually use.
 
 ## Current Work
 
-**Mixtape** is a collaboration and publishing environment for people and groups. It brings together writing, dispatch, curation, member and group spaces, messaging, public/private surfaces, and AI-assisted work patterns inside one coherent product.
+**Crossroads** is a collaboration and publishing environment for people and groups. It brings together writing, dispatch, curation, member and group spaces, messaging, public/private surfaces, and AI-assisted work patterns inside one coherent product.
 
 **Catalyst** is a knowledge-practice and Codex-building system. It helps organizations take the material they already have - documents, spreadsheets, meeting notes, procedures, recipes, research, drafts, and institutional memory - and turn it into structured, reviewable, portable knowledge.
 
@@ -27,7 +27,7 @@ Recent Catalyst work focused on resourcefulness: moving from brute-force documen
 
 ## Older Threads
 
-Before Mixtape, I spent many years building web, data, and public-sector systems across Drupal/PHP, Django/Python, SQL, Java, Solr/search, Tailwind, migrations, CMS architecture, healthcare claims, philanthropy, and nonprofit/small-business software.
+Before Mixtape, I spent many years building web, data, and public-sector systems across Python, Typescript, SQL, Java, PHP, shell, Solr/search, Tailwind, migrations, CMS architecture, healthcare claims, philanthropy, and nonprofit/small-business software.
 
 I still care a lot about plain old data architecture: what exists, where it lives, who owns it, how it changes, and how people know whether it can be trusted.
 
