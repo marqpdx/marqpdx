@@ -18,8 +18,8 @@ The shared premise is simple: AI is most useful when people still decide what ma
 
 The main production repositories are private and available for serious review by request:
 
-- `mixtape-release-core` - Django/DRF backend, PostgreSQL, Celery/RabbitMQ, service auth, operational tooling, Catalyst ingestion, and domain models.
-- `mixtape-release-frontend` - Next.js/React application surfaces, Crossroads public pages, Catalyst UI, writing workflows, mobile/shared packages, and design-system work.
+- [`mixtape-release-core`](https://github.com/marqpdx/mixtape-release-core) - Django/DRF backend, PostgreSQL, Celery/RabbitMQ, service auth, operational tooling, Catalyst ingestion, and domain models.
+- [`mixtape-release-frontend`](https://github.com/marqpdx/mixtape-release-frontend) - Next.js/React application surfaces, Crossroads public pages, Catalyst UI, writing workflows, mobile/shared packages, and design-system work.
 
 The broader system includes FastAPI services, semantic-memory work, Qdrant/vector retrieval, Socket.IO/Yjs collaboration, React Native/Expo, VPS deployment, and a governing documentation practice called Puddlejump.
 
