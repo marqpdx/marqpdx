@@ -14,7 +14,7 @@ My current work centers on **Mixtape**, and integrated suite of tools including 
 
 The shared premise is simple: AI is most useful when people still decide what matters. The work is not just to store more information, but to help people build knowledge they can trust.
 
-## Technical Shape
+## Mixtape Technical Shape
 
 The main production repositories are private and available for serious review by request:
 
